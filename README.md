@@ -7,7 +7,7 @@ This is a project from a Java Script course.
 I learned how to interact with data and how to use axios to make HTTP requests using JavaScript in this project, I used the OMDB API to extract data from.
 
 The comparisson between the two movies happen based on a couple of factors:
-1)Number of awards
+1)Number of awards.
 2)BoxOffice earnings.
 3)MetaScore.
 4)IMDB Rating.
