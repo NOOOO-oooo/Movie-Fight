@@ -15,4 +15,7 @@ The comparisson between the two movies happen based on a couple of factors:
 
 And the code in index.js compares between the two values of each section and gives a final score.
 
-I also learned how to make an auto correct system which shows search suggestions close to what we are searching for,which I won't make again because it was so hard to make using vanilla JS.
+I also learned how to make an auto correct system which shows search suggestions close to what we are searching for.
+It depends on a root value, and an input value which the user types in each section, and fetched data which comes from the API, once the user clicks on a certain selection from the dropdown menu the list hides and the movie is set for comparisson.
+
+which I won't make again because it was so hard to make using vanilla JS.
